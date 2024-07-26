@@ -1,7 +1,3 @@
-# Source: https://github.com/christopher-br/CBRNet
-
-# to do: increase sparcity of weight vector
-
 # LOAD MODULES
 # Standard library
 from typing import Union, Optional
