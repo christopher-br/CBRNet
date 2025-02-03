@@ -20,8 +20,8 @@ pip install -r requirements.txt
 ```
 Please use the above in a newly created virtual environment to avoid clashing dependencies.
 
-To replicate our experiments, run the scripts in the `scripts/` folder.
-Raw data has to be downloaded from [here]([https://www.dropbox.com/scl/fo/9vwoxongw1b2727mkyg6u/AEhZlwyKQeZ572UHymQK82w?rlkey=38bz6fchgsji86ks7a91810gv&st=erqpa4f0&dl=0]) and put in the `data\` folder.
+To replicate our experiments, run the scripts in the `scripts/` folder.  
+Raw data has to be downloaded from [here](https://www.dropbox.com/scl/fo/9vwoxongw1b2727mkyg6u/AEhZlwyKQeZ572UHymQK82w?rlkey=38bz6fchgsji86ks7a91810gv&st=erqpa4f0&dl=0) and put in the `data/` folder.  
 
 ## Citing
 Please cite our paper and/or code as follows:
